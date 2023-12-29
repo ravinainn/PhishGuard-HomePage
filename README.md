@@ -1,6 +1,6 @@
 # PhishGuard
 
-![PhishGuard Home Page](./images/phishguard_home_page.png)
+![PhishGuard Home Page](./public/images/home1.png)
 
 PhishGuard is a web application designed to provide robust protection against phishing attacks. This repository contains the home page screenshot of the PhishGuard website.
 

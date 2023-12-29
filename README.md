@@ -4,7 +4,7 @@ PhishGuard is a web application designed to provide robust protection against ph
 
 ## Preview
 
-![PhishGuard Home Page](./public/images/home1.png)
+![PhishGuard Home Page](https://drive.google.com/file/d/1Phm96kmcgWCm_AhGnuU4QGYkaF0POu5H/view)
 ![PhishGuard Home Page](./public/images/home2.png)
 ![PhishGuard Home Page](./public/images/home3.png)
 ![PhishGuard Home Page](./public/images/home4.png)

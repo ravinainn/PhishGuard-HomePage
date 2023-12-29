@@ -1,8 +1,25 @@
-# React + Vite
+# PhishGuard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![PhishGuard Home Page](./images/phishguard_home_page.png)
 
-Currently, two official plugins are available:
+PhishGuard is a web application designed to provide robust protection against phishing attacks. This repository contains the home page screenshot of the PhishGuard website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Preview
+
+![PhishGuard Home Page](./images/phishguard_home_page.png)
+
+## Features
+
+- 🎣 Advanced phishing detection algorithms
+- 🔐 Real-time protection against malicious websites
+- 🌐 User-friendly interface for easy navigation
+- ⚙️ Customizable settings to enhance security
+
+## Getting Started
+
+To get started with PhishGuard, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/phishguard.git
